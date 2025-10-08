@@ -20,4 +20,4 @@ Files
 - `/Charts` — PNG images of charts
 
 Notes
-Dataset sample provided (`dataset_sample.csv`). Full dataset source: [Kaggle Superstore dataset](link).
+Dataset sample provided (`dataset_sample.csv`). Full dataset source: [Kaggle Superstore dataset]([https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
